@@ -1,0 +1,15 @@
+program HelloWorld;
+
+var a, b, c : int;
+    x, y, z: float;
+
+{
+    miVar = otraVar;
+    miVar = (x+y*3)/4 > 105.3;
+    if(x > y) {
+        print('hola mundo');
+        print((x   + y), 'hola');
+    } else {
+        miVar = otraVar;
+    };
+}
